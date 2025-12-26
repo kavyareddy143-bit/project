@@ -22,7 +22,8 @@ Create a HTML file and include the needed Bootstrap components.
 ## Step 6:
 Publish the website in the LocalHost.
 
-# PROGRAM :
+# PROGRAM:
+```
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -358,7 +359,7 @@ style.css
   transition: 0.3s ease;
   box-shadow: 0 8px 16px rgba(250, 249, 249, 0.938);
 }
-
+```
 # OUTPUT:
 <img width="1013" height="514" alt="image" src="https://github.com/user-attachments/assets/2a756b31-afeb-4265-b76d-228406fc479c" />
 
